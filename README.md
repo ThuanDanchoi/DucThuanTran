@@ -5,7 +5,6 @@
 <h3 align="center">A passionate student from Data Science major</h3>
 
 <img style="float: right;" alt="Coding" width="400" src="https://media.giphy.com/media/RD8skH72jRPiOCAL8M/giphy.gif?cid=790b7611xjaiunahyvnxv4qpvpd3sivmvwagf3spqd76ri11&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ducthuantran&label=Profile%20views&color=0e75b6&style=flat" alt="ducthuantran" /> </p>
 
 <p align="left"> <a href="https://twitter.com/duc_thuan_tran" target="blank"><img src="https://img.shields.io/twitter/follow/duc_thuan_tran?logo=twitter&style=for-the-badge" alt="duc_thuan_tran" /></a> </p>
