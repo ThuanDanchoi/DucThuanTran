@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/duc_thuan_tran" target="blank"><img src="https://img.shields.io/twitter/follow/duc_thuan_tran?logo=twitter&style=for-the-badge" alt="duc_thuan_tran" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Data Science Project**
 
 - 🌱 I’m currently learning **Data Science**
 
