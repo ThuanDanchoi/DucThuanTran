@@ -35,8 +35,8 @@
 <!-- Your icons for languages and tools go here -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DucThuanTran&show_icons=true&locale=en&layout=compact" alt="DucThuanTran" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DucThuanTran&show_icons=true&locale=en&layout=compact" alt="ThuanDanChoi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DucThuanTran&show_icons=true&locale=en" alt="DucThuanTran" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DucThuanTran&show_icons=true&locale=en" alt="ThuanDanChoi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DucThuanTran&" alt="DucThuanTran" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DucThuanTran&" alt="ThuanDanChoi" /></p>
