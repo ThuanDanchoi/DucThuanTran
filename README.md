@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Handwritten Digit Recognition**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python Pycharm**
 
 - 📫 How to reach me **ducthuantrandc@gmail.com**
 
