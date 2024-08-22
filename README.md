@@ -37,21 +37,4 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/duc_thuan_tran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="duc_thuan_tran" height="30" width="40" /></a>
-<a href="https://fb.com/duc thuan tran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="duc thuan tran" height="30" width="40" /></a>
-<a href="https://instagram.com/duc_thuan_tran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duc_thuan_tran" height="30" width="40" /></a>
-<a href="https://discord.gg/duc thuan tran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="duc thuan tran" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<!-- Your icons for languages and tools go here -->
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DucThuanTran&show_icons=true&locale=en&layout=compact" alt="ThuanDanChoi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DucThuanTran&show_icons=true&locale=en" alt="ThuanDanChoi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DucThuanTran&" alt="ThuanDanChoi" /></p>
+ 
