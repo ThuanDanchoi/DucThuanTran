@@ -31,14 +31,14 @@
   </a>
 </div>
 
-<h2 align="left">Technical Skills</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="left">
-    Python | JavaScript | HTML & CSS | React | TensorFlow | Keras | PyTorch <br/>
-    Pandas | Scikit-learn | NumPy | Matplotlib | Flask | Git | Jupyter Notebook
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,tensorflow,keras,pytorch,pandas,scikit-learn,numpy,matplotlib,flask,git,jupyter" /><br>
 </div>
 <br/>
 <hr/>
+
 
 
 <h3 align="left">Connect with me:</h3>
