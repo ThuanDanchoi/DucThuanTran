@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **Handwritten Digit Recognition**
+- 👯 I’m looking to collaborate on **AI, Machine Learning, Data Science Project**
 
 - 💬 Ask me about **Python, Pycharm**
 
