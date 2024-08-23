@@ -4,13 +4,13 @@
 
 
  <h1 align="center">Hi 👋, I'm Duc Thuan Tran</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate AI Developer</h3>
 
  
 
 - 🔭 I’m currently working on **Human Activity Recognition**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👯 I’m looking to collaborate on **AI, Machine Learning, Data Science Project**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ducthuantrandc@gmail.com**
 
-- ⚡ Fun fact **I am Kind-hearted**
+- ⚡ Fun fact **Always Trust In Your Process**
 
 <div align="center"> 
   <a href="mailto:ducthuantrandc@gmail.com">
